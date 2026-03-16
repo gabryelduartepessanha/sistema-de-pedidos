@@ -102,3 +102,14 @@ Este projeto foi desenvolvido com o objetivo de **praticar o desenvolvimento de 
 
 Desenvolvido por **Gabryel Duarte Pessanha**
 Linkedin: www.linkedin.com/in/gabryel-duarte-847606199/?skipRedirect=true
+
+
+
+---
+<img width="1103" height="553" alt="image" src="https://github.com/user-attachments/assets/9cffb9c9-a522-4c2e-99e8-02b3b0377a7b" />
+
+<img width="1148" height="689" alt="image" src="https://github.com/user-attachments/assets/5f2ca41d-8353-4d8d-a2ad-3d25d4319131" />
+
+<img width="1107" height="658" alt="image" src="https://github.com/user-attachments/assets/2bbd8a5d-65c5-4735-b36c-6bd7cee79b56" />
+
+
